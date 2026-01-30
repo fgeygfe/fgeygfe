@@ -38,11 +38,22 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p> -->
 
-
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
 </td></tr>
+
+<tr><td>
+
+### 📫 联系我
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/fgeygfe)
+[![微信](https://img.shields.io/badge/-微信-07C160?style=flat-square&logo=wechat&logoColor=white)](https://example.com/wechat-qrcode)  
+📱 Wechat: jio693117188
+📧 Email：[693117188@qq.com](mailto:693117188@qq.com)
+---
+</td></tr>
+
 
 <tr><td>
 
