@@ -30,7 +30,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/89984492?v=4" />
 
 <p>&emsp;&emsp;Ciallo，我是fgeygfe</p>
 <!-- <p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
@@ -48,7 +48,7 @@
 
 ## 🏢 Work Experience
 
-<img align="right" width="200" src="assets\images\moonbit_logo.png" />
+<img align="right" width="100" src="assets\images\moonbit_logo.png" />
 
 - [moonbit](https://www.moonbitlang.cn/) &emsp; 📌 2024-07 —— 2024-12
 
